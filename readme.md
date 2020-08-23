@@ -18,3 +18,6 @@
 #5 spaCy Tutorial [slide](https://info-ruc.github.io/nlpbot/spacy.pdf) 
 | [ipynb](https://github.com/info-ruc/nlpbot/blob/master/spacy.ipynb)
 
+#6 NLP Visualization [slide](https://info-ruc.github.io/nlpbot/vis.pdf) 
+| [ipynb](https://github.com/info-ruc/nlpbot/blob/master/texthero.ipynb)
+

@@ -24,6 +24,6 @@
 #7 Knowledge Graph [slide](https://info-ruc.github.io/nlpbot/kg.pdf) 
 | [ipynb](https://github.com/info-ruc/nlpbot/blob/master/kg.ipynb)
 
-#8 RASA Bot [slide](https://info-ruc.github.io/nlpbot/vis.pdf) 
-| [ipynb](https://github.com/info-ruc/nlpbot/blob/master/texthero.ipynb)
+#8 RASA Bot [slide](https://info-ruc.github.io/nlpbot/bot.pdf) 
+| [ipynb](https://github.com/info-ruc/nlpbot/blob/master/rasa.ipynb)
 
